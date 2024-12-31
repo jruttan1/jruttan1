@@ -11,7 +11,9 @@
 
 ---
 
-<h3 align="center"> 👨‍💻 **Computer Science Student** at **Western University**  </h3>
+<h3 align="center">
+  👨‍💻 <b>Computer Science Student</b> at <span style="color:purple;"><b>Western University</b></span>
+</h3>
 
 ---
 
