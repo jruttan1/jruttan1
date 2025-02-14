@@ -24,9 +24,9 @@
 
 ---
 ## 📝 Currently Learning
-- Web development with **TypeScript** on **React** and **Next.js**
-- **Python** for data analysis, algorithm design and automation
-- **Machine learning** and **Ai** 
+- Web app development with **TypeScript** on **React** and **Next.js**
+- **Python** for data analysis, **Machine learning** and **Ai** 
+- Backend engineering with **Java** 
 ---
 
 I like to solve challenging problems, contribute to innovative projects, collaborate with like-minded individuals, and learn more. Always down to team up for hackathons and build something cool. Check out my work below and let’s connect!
