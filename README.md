@@ -21,12 +21,13 @@
 - Building **real world solutions**
 - Competing in **consulting case competitions**
 - The intersections of **technology and business**
+- **Machine Learning** research focusing on **NLP**
 
 ---
 ## 📝 Currently Learning
 - Web app development with **TypeScript** on **React** and **Next.js**
 - **Python** for data analysis, **Machine learning** and **Ai** 
-- Backend engineering with **Java** 
+- **React Native** to build dynamic mobile apps
 ---
 
 I like to solve challenging problems, contribute to innovative projects, collaborate with like-minded individuals, and learn more. Always down to team up for hackathons and build something cool. Check out my work below and let’s connect!
