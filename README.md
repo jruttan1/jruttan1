@@ -1,6 +1,6 @@
-<h1 align="center">Welcome! I'm Jack Ruttan</span></h1>
+<h1 align="left">Welcome! I'm Jack Ruttan</span></h1>
 
-<p align="center">
+<p align="left">
   <a href="mailto:jackjr.ruttan@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail">
   </a>
@@ -11,7 +11,7 @@
 
 ---
 
-<h3 align="center">
+<h3 align="left">
   👨‍💻 <b>Computer Science Student</b> at <span style="color:purple;"><b>Western University</b></span>
 </h3>
 
@@ -19,9 +19,8 @@
 
 ## 💡 Interests
 - Building **real world solutions**
-- Competing in **consulting case competitions**
 - The intersections of **technology and business**
-- **Machine Learning** research focusing on **NLP**
+- **Machine Learning** research focusing on **NLP**s
 
 ---
 ## 📝 Currently Learning
