@@ -2,8 +2,7 @@
 <h3 align="center">CS Student @ Western University | Founder & CTO</h3>
 
 <p align="center">
-  <a href="https://admin.tabletap.ca">🌐 TableTap</a> • 
-  <a href="https://github.com/jruttan1/vits">⚙️ NLP Research</a> • 
+  <a href="https://admin.tabletap.ca">🌐 TableTap</a> •
   <a href="https://www.linkedin.com/in/jack-ruttan-495866232">🔗 LinkedIn</a>
 </p>
 
@@ -13,11 +12,9 @@
 
 - 🔭 Currently building **TableTap**, streamlining nightlife
 - 🌱 Researching **NLP** methods for endangered languages
-- 💬 Learning **AWS** & **Express.js**
+- 💬 Learning **AWS**, **Express.js**, **Springboot**
 - 📫 Reach me at **jruttan3@uwo.ca**
 - 📄 Detailed experience here: [Resume](https://www.linkedin.com/in/john-ruttan-495866232/overlay/1745316528086/single-media-viewer/?profileId=ACoAADol0TEBnN_3FGeZ3mfnnxi_74ODDMrZuOM)
-
-No internship, had to bootstrap a startup 😉
 
 ---
 
