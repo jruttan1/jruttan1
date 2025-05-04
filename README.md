@@ -27,7 +27,6 @@
 <img src="https://cdn.simpleicons.org/javascript/F7DF1E" alt="JavaScript" width="40" height="40" />
 <img src="https://cdn.simpleicons.org/react/61DAFB" alt="React" width="40" height="40" />
 <img src="https://cdn.simpleicons.org/next.js/000000" alt="Next.js" width="40" height="40" />
-<img src="https://cdn.simpleicons.org/reactrouter/CB3837" alt="React Native" width="40" height="40" />
 <img src="https://cdn.simpleicons.org/node.js/339933" alt="Node.js" width="40" height="40" />
 <img src="https://cdn.simpleicons.org/firebase/FFCA28" alt="Firebase" width="40" height="40" />
 <img src="https://cdn.simpleicons.org/stripe/008CDD" alt="Stripe" width="40" height="40" />
