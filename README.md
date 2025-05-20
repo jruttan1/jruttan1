@@ -25,7 +25,7 @@ First year Computer Science student focused on full-stack development and ML res
 
 ## 🛠️ Tools & Technologies
 
-<p align="center">
+<p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
 <img src="https://cdn.simpleicons.org/typescript/3178C6" alt="TypeScript" width="40" height="40" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40" />
@@ -41,6 +41,6 @@ First year Computer Science student focused on full-stack development and ML res
 <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" alt="Tailwind CSS" width="40" height="40" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" width="40" height="40" />
 </p>
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jruttan1&layout=compact&theme=radical" alt="Top Languages" />
 </p>
