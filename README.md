@@ -18,7 +18,7 @@ First year Computer Science student focused on full-stack development and ML res
 
 - **WalletWise** 🤖  
   AI-powered finance coach that turns a simple CSV of your portfolio into interactive dashboards and personalized, citation-backed insights.  
-  🔗 [GitHub Repo](https://github.com/jruttan1/walletwise)
+  🔗 [Project Repo](https://github.com/jruttan1/walletwise)
 
 - **TableTap** 🎉  
   A real-time club-booking platform with both an admin dashboard and a mobile app.  
