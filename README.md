@@ -17,7 +17,7 @@ First year Computer Science student focused on full-stack development and ML res
 ## 💼 Projects
 
 - **WalletWise** 🤖  
-  AI-powered finance coach that turns a simple CSV of your portfolio into interactive dashboards and personalized, citation-backed insights.  
+  AI-powered finance coach that turns your investment portfolio into an educational interactive dashboard with personalized, citation-backed insights.  
   🔗 [Project Repo](https://github.com/jruttan1/walletwise)
 
 - **TableTap** 🎉  
