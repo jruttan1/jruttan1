@@ -15,11 +15,19 @@ First year Computer Science student focused on full-stack development and ML res
 ---
 
 ## 💼 Projects
- 
-- <a href="https://admin.tabletap.ca">**TableTap Admin**</a> & <a href="https://www.tabletap.ca">**TableTap Mobile**</a> Real-time club booking admin dashboard & Mobile app for one tap table bookings. Beta launching soon in Ontario🎉
 
-- <a href="https://aclanthology.org/2025.americasnlp-1.4/">**ACL Anthology Paper**</a> & <a href="https://github.com/jruttan1/ComancheNLP">**ML Research Repo**</a>
-  Novel NLP methods for the endangered Comanche language.
+- **WalletWise** 🤖  
+  AI-powered finance coach that turns a simple CSV of your portfolio into interactive dashboards and personalized, citation-backed insights.  
+  🔗 [GitHub Repo](https://github.com/jruttan1/walletwise)
+
+- **TableTap** 🎉  
+  A real-time club-booking platform with both an admin dashboard and a mobile app.  
+  **Beta launching soon in Ontario**  
+  🔗 [Admin Dashboard](https://admin.tabletap.ca) • [Mobile App](https://www.tabletap.ca)
+
+- **ComancheNLP** 📝  
+  Novel NLP research aimed at preserving the endangered Comanche language.  
+  🔗 [ACL Anthology Paper](https://aclanthology.org/2025.americasnlp-1.4/) • [GitHub Repo](https://github.com/jruttan1/ComancheNLP)
 
 ---
 
