@@ -19,7 +19,7 @@
 - Built [TableTap's](https://admin.tabletap.ca) admin dashboard and React Native app, beta launching in Ontario 🔜
 - Published & Presented [Comanche Case Study](https://aclanthology.org/2025.americasnlp-1.4/) at NAACL, preserving endangered languages with ML
 
-### Currently Building:
+### Building:
 
 - Open source dev tool for onboarding
 - Cross platform live data backend infrastructure 
