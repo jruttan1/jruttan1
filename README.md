@@ -14,9 +14,10 @@
 - Published & Presented [Comanche Case Study](https://aclanthology.org/2025.americasnlp-1.4/) at NAACL, preserving endangered languages with ML
 
 ### Building Now
+- AI agents for mental health
 - Open-source dev onboarding tool  
 - Cross-platform live-data backend infra  
-- Personal portfolio site
+- My portfolio site
 
 ### Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jruttan1&show_icons=true&theme=tokyonight)
