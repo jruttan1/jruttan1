@@ -4,9 +4,8 @@
 
 ### About
 - Second year CS @ Western University  
-- Founder & CTO, TableTap – modernizing nightlife  
+- Prev. CTO @ TableTap – modernizing nightlife  
 - Published ML researcher (NAACL ’25, AmericasNLP)  
-- Public builder shipping MVPs fast
 
 ### Recently
 - Launced **[TravelGenie](https://travelgenie-ai.vercel.app)** – AI travel planner built in <36h  
@@ -15,8 +14,7 @@
 
 ### Building Now
 - AI agents for mental health
-- Open-source dev onboarding tool  
-- Cross-platform live-data backend infra  
+- AI tools for linux
 - My portfolio site
 
 ### Stats
