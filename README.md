@@ -8,14 +8,9 @@
 - Published ML researcher (NAACL ’25, AmericasNLP)  
 
 ### Recently
+- Won 2x at HTN with **[Optimate](https://github.com/jruttan1/Optimate)** 
 - Launced **[TravelGenie](https://travelgenie-ai.vercel.app)** – AI travel planner built in <36h  
-- Built **[TableTap's](https://admin.tabletap.ca)** admin dashboard + [mobile app](https://www.tabletap.ca), beta launching in Ontario 🔜
 - Published & Presented [Comanche Case Study](https://aclanthology.org/2025.americasnlp-1.4/) at NAACL, preserving endangered languages with ML
-
-### Building Now
-- AI agents for mental health
-- AI tools for linux
-- My portfolio site
 
 ### Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jruttan1&show_icons=true&theme=tokyonight)
