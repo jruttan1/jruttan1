@@ -8,8 +8,8 @@
 - Published ML researcher (NAACL ’25, AmericasNLP)  
 
 ### Recently
-- Won 2x at HTN with **[Optimate](https://github.com/jruttan1/Optimate)** 
-- Launced **[TravelGenie](https://travelgenie-ai.vercel.app)** – AI travel planner built in <36h  
+- Won 2x at HTN with **[Optimate](https://github.com/jruttan1/Optimate)**
+- Built an AI Agent intake triage tool with Unity Health Toronto
 - Published & Presented [Comanche Case Study](https://aclanthology.org/2025.americasnlp-1.4/) at NAACL, preserving endangered languages with ML
 
 ### Stats
