@@ -13,7 +13,7 @@
 - Published & Presented [Comanche Case Study](https://aclanthology.org/2025.americasnlp-1.4/) at NAACL, preserving endangered languages with ML
 
 ### Currently
-- Grinding my degree: **[notebook](https://github.com/jruttan1/cs-notebook)
+- Grinding my degree: **[notebook](https://github.com/jruttan1/cs-notebook)**
 - Building an ai plug-in for ubuntu
 
 ### Stats
