@@ -12,6 +12,10 @@
 - Built an AI Agent intake triage tool with Unity Health Toronto
 - Published & Presented [Comanche Case Study](https://aclanthology.org/2025.americasnlp-1.4/) at NAACL, preserving endangered languages with ML
 
+### Currently
+- Grinding my degree: **[notebook](https://github.com/jruttan1/cs-notebook)
+- Building an ai plug-in for ubuntu
+
 ### Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jruttan1&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jruttan1&layout=compact&theme=tokyonight)
