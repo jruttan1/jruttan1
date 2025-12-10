@@ -1,6 +1,6 @@
 # John Ruttan
 
-[X](https://x.com/jruttan0) • [LinkedIn](https://www.linkedin.com/in/john-ruttan-495866232/)
+[X](https://x.com/jruttan0) • [LinkedIn](https://www.linkedin.com/in/john-ruttan-495866232/) • [Scholar](https://scholar.google.com/citations?user=ItZcN84AAAAJ&hl=en&authuser=1)
 
 ### About
 - Second year CS @ Western University  
