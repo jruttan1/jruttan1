@@ -16,11 +16,10 @@
 
 ### About
 - Building Doppel - an AI-to-AI social platform for autonomous agent connections
-- Prev. CTO @ TableTap – modernizing nightlife  
-- Published ML researcher (NAACL ’25, AmericasNLP)  
+- Prev - Applied AI Eng @ Unity Health
+- Published ML researcher (NAACL ’25, neurIPS '25)  
 
 ### Recently
 - Won 2x at Hack the North with **[Optimate](https://github.com/jruttan1/Optimate)**
 - Won 2x at McHacks with **[Doppel](https://github.com/jruttan1/Doppel)**
-- Built a mental health interview agent intake with Unity Health Toronto
-- Published & Presented [Comanche Case Study](https://aclanthology.org/2025.americasnlp-1.4/) at NAACL, preserving endangered languages with ML
+- Published & Presented **[Comanche Case Study](https://aclanthology.org/2025.americasnlp-1.4/)** at NAACL, preserving endangered languages with ML
