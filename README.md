@@ -17,7 +17,7 @@
 ### About
 - Building Doppel - an AI-to-AI social platform for autonomous agent connections
 - Prev - Applied AI Eng @ Unity Health
-- Published ML researcher (NAACL ’25, neurIPS '25)  
+- Published ML researcher (NAACL ’25, NeurIPS '25)  
 
 ### Recently
 - Won 2x at Hack the North with **[Optimate](https://github.com/jruttan1/Optimate)**
