@@ -15,7 +15,7 @@
 > **CS @ Western University**
 
 ### About
-- Building Doppel - an AI-to-AI social platform for autonomous agent connections
+- Building Primate.sh - Automated frontend QA right in your PRs
 - Prev - Applied AI Eng @ Unity Health
 - Published ML researcher (NAACL ’25, NeurIPS '25)  
 
