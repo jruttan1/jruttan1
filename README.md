@@ -1,4 +1,4 @@
-# John Ruttan
+# Jack Ruttan
 
 [X](https://x.com/jruttan0) - [LinkedIn](https://www.linkedin.com/in/john-ruttan-495866232/) - [Google Scholar](https://scholar.google.com/citations?user=ItZcN84AAAAJ&hl=en&authuser=1)
 
