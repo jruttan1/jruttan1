@@ -6,7 +6,7 @@
 
 ### About
 - Curr - Founder @ **[Primate.sh](https://primate.sh)** — agentic frontend QA directly in pull requests
-- Prev - AI ENG @ Red Cross, Unity Health
+- Prev - AI Eng @ Unity Health & PM @ Canadian Red Cross
 - ML researcher (NAACL ’25, NeurIPS '25)  
 
 ### Recently
