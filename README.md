@@ -10,5 +10,6 @@
 - ML researcher (NAACL ’25, NeurIPS '25)  
 
 ### Recently
+- Released **[omcp](https://github.com/jruttan1/omcp)**, a Go CLI for creating MCP servers in 1 command
 - Won 2x at Hack the North with **[Optimate](https://github.com/jruttan1/Optimate)**
 - Won 2x at McHacks with **[Doppel](https://github.com/jruttan1/Doppel)**
