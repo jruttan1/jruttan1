@@ -5,7 +5,7 @@
 **CS @ Western University | Focused on applied AI & ML research** 
 
 ### About
-- Curr - Founder @ **[Primate.sh](https://primate.sh)** — agentic frontend QA directly in pull requests
+- Curr - Founder @ **[Primate.sh](https://primate.sh)** — Visual QA agents for frontend
 - Prev - AI Eng @ Unity Health & PM @ Canadian Red Cross
 - ML researcher (NAACL ’25, NeurIPS '25)  
 
