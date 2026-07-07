@@ -2,13 +2,16 @@
 
 [X](https://x.com/jruttan0) - [LinkedIn](https://www.linkedin.com/in/john-ruttan-495866232/) - [Google Scholar](https://scholar.google.com/citations?user=ItZcN84AAAAJ&hl=en&authuser=1)
 
-**CS @ Western University | AI, Product, Research** 
+**CS @ Western University | AI, Product, Research**
 
-### About
-- AI Systems Engineering @ Lifemark Health Group
-- Building **[Primate.sh](https://primate.sh)** — Visual QA agents for frontend
-- Prev - AI Eng @ Unity Health, Published ML research (NAACL ’25, NeurIPS '25)  
+**→ [jackruttan.com](https://jackruttan.com)**
 
-### Recently
-- Won 2x at Hack the North with **[Optimate](https://github.com/jruttan1/Optimate)**
-- Won 2x at McHacks with **[Doppel](https://github.com/jruttan1/Doppel)**
+### Right now
+- AI Systems Engineer at Lifemark Health Group
+- Building QA Agents at **[Primate.sh](https://primate.sh)**
+### Previously
+- AI Engineer at Unity Health building agents for mental health diagnosis
+- Published ML research on low resource NLP @ NAACL '25
+### Wins
+- 2x at Hack the North with **[Optimate](https://github.com/jruttan1/Optimate)**
+- 2x at McHacks with **[Doppels](https://github.com/jruttan1/Doppel)**
